@@ -65,7 +65,7 @@ landmark-classification/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/landmark-classification.git
+git clone https://github.com/kritishp99/landmark-classification.git
 ```
 
 ### 2. Navigate to the project directory
@@ -131,3 +131,5 @@ This project explores the use of Convolutional Neural Networks for landmark imag
 **Domain:** Deep Learning / Computer Vision  
 **Architecture:** VGG19  
 **Language:** Python
+
+**GitHub:** https://github.com/kritishp99/landmark-classification
